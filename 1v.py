@@ -1,5 +1,5 @@
 #Finna stöðu á leikmanni
-#setja inni while lykkju og taka inn hreyfingu
+#setja inni while lykkju og taka inn hreyfingu.
 #reikna nýja stöðu
 #kominn á enda reyt skrifa Victory!
 
